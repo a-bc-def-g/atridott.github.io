@@ -1,4 +1,3 @@
 # atridott.github.io
-My page
 
-WIP!!
+WIP / 作り途中。
