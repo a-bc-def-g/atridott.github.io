@@ -1,5 +1,6 @@
+/* https://colorhunt.co/palette/6f38c587a2fbadddd0eeeeee */
+
 body {
-	
 	padding-top: 90px;
 }
 
@@ -15,8 +16,32 @@ header {
 	background-color: #6F38C5;
 }
 
-header svg {
+.title {
+	background-color: rgba(255,255,255,.8);
+	padding-left: 50px;
+	width: 100%;
+	height: 110px;
+	margin: 0 50px;
+	color: black;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+	line-height: 0.8em;
+	display: flex;
+	align-items: center;
+}
+
+.title > h1 {
+	font-size: 24px;
+}
+
+.LastEditedDate {
+	font-size:12px;
+}
+
+.logo {
 	zoom: 3;
+	filter: drop-shadow(0 1px .5px rgba(0,0,0,.2));
 }
 
 #cover {
